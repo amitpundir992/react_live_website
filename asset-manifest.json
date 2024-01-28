@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_live_website/static/css/main.1daea45a.css",
+    "main.js": "/react_live_website/static/js/main.ddcf0af1.js",
+    "static/media/android.jpg": "/react_live_website/static/media/android.0636261a7d28aadb10c1.jpg",
+    "static/media/s1.jpg": "/react_live_website/static/media/s1.dc7804d31ee17f67496c.jpg",
+    "static/media/digital.jpg": "/react_live_website/static/media/digital.b3274668dee0f95c6ff1.jpg",
+    "static/media/about.svg": "/react_live_website/static/media/about.1bf83e721fbb8dd435d964c3d06e0f13.svg",
+    "static/media/marketing.jpg": "/react_live_website/static/media/marketing.449170e69e25445c1071.jpg",
+    "static/media/software.jpg": "/react_live_website/static/media/software.9528a6a91e90a627b2cb.jpg",
+    "static/media/img2.svg": "/react_live_website/static/media/img2.8188e96fc7d8edd73be39d0961fc8212.svg",
+    "static/media/app.jpg": "/react_live_website/static/media/app.b13f0a9c17bd6993ec44.jpg",
+    "index.html": "/react_live_website/index.html",
+    "main.1daea45a.css.map": "/react_live_website/static/css/main.1daea45a.css.map",
+    "main.ddcf0af1.js.map": "/react_live_website/static/js/main.ddcf0af1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1daea45a.css",
+    "static/js/main.ddcf0af1.js"
+  ]
+}
